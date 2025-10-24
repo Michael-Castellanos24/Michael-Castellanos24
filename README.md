@@ -1,4 +1,4 @@
-## Hi there, I'm Michael 👋
+# Hi there, I'm Michael Castellanos 👋
 
 I am a graduate of Ramapo College who majored in Information Technology Management, and have a certification in Data Analytics.
 
